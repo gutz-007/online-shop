@@ -1,0 +1,36 @@
+        h1{
+            color: rgb(255, 255, 255);
+        }
+        button{
+            width:70px;
+            height: 40px;
+            background-color: greenyellow;
+            color:whitesmoke;
+            border: cap;
+        }
+        td{
+            color:whitesmoke;
+        }
+        #log{
+            img{
+                border-radius: 50%;
+            }
+            font-style: italic;
+        }
+    input[type="search"]{
+        width: 500px;
+        height: 75px;
+        border-left: 50%;
+        border-right: 50%;
+        border-bottom-left-radius: 40%;
+        border-top-left-radius: 40%;
+        border-bottom-right-radius: 40%;
+        border-top-right-radius: 40%;
+        
+    }
+    .bg{
+    background-image:url(879.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
